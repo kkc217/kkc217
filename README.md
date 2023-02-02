@@ -1,7 +1,9 @@
 <div align=center>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=50&pause=1000&color=607EAF&background=1E2BFF00&center=true&vCenter=true&repeat=false&width=500&lines=Hi!+I'm+Beomcheol.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=50&pause=1000&color=607EAF&background=1E2BFF00&center=true&vCenter=true&width=500&lines=Hi!+I'm+Beomcheol.)](https://git.io/typing-svg)
 
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkc217&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ### Tech Stack
