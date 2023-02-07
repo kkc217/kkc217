@@ -4,24 +4,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=50&pause=1000&color=607EAF&background=1E2BFF00&center=true&vCenter=true&width=500&lines=Hi!+I'm+Beomcheol.)](https://git.io/typing-svg)
 
-  
+---
 
 <br/>
+<br/>
   
-# 📋 Git Stats
+### 📋 Git Stats
   
 [![](https://raw.githubusercontent.com/kkc217/github-stats-transparent/output/generated/languages.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 [![](https://raw.githubusercontent.com/kkc217/github-stats-transparent/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
   
 <br/>
   
-## 🥇 Baekjoon rank
+### 🥇 Baekjoon rank
 [![](http://mazassumnida.wtf/api/generate_badge?boj=kkc217)](https://github.com/mazassumnida/mazassumnida)
 
 <br/>
 <br/>
   
-## 🚀 Tech Stack
+### 🚀 Tech Stack
   
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
